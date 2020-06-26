@@ -9,8 +9,7 @@
 ### Tools that I'm using:
 - React 16.12
 - Redux 4.0
-- SAGA 1.1.3
-- React router 5.1
+- Redux-Thunk 2.3.0
 - Bootstrap 4
 
 ### Artchitecture:
