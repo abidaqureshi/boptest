@@ -27,4 +27,4 @@
 - cmd > npm start
 
 ### Live working url
-[Nytimes demo](http://nytimes-ci.s3-website.us-east-2.amazonaws.com/)
+[Movies demo](http://movies-ci.s3-website.us-east-2.amazonaws.com/)
