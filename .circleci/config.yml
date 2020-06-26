@@ -31,8 +31,6 @@ jobs:
           monitor-on-build: false
           severity-threshold: high
 
-      - run: npm run lint
-
       - run: npm run build
 
       - aws-s3/sync:
