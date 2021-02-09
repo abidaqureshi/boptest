@@ -21,7 +21,7 @@
     "react-test-renderer": "^16.8.6",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "source-map-explorer": "^1.8.0"
+    "source-map-explorer": "^2.1.2"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
